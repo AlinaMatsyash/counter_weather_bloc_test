@@ -1,17 +1,9 @@
 # counter_weather_bloc
 
-"A new Flutter project."
+![Screenshot_20230914_163213](https://github.com/AlinaMatsyash/counter_weather_bloc_test/assets/40697299/4747ad72-bf41-4c8a-96c8-3ccc20983e3f)
 
-## Getting Started
+![Screenshot_20230914_163222](https://github.com/AlinaMatsyash/counter_weather_bloc_test/assets/40697299/8d38b6ff-2649-44ad-a400-692ffcc18b52)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230914_163236](https://github.com/AlinaMatsyash/counter_weather_bloc_test/assets/40697299/42022f18-effe-4aaa-a369-007c93510cfd)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# counter_weather_bloc_test
+![Screenshot_20230914_163245](https://github.com/AlinaMatsyash/counter_weather_bloc_test/assets/40697299/69049b69-6dc6-4cc6-baa3-cc2e42d28a2b)
